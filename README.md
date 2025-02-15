@@ -10,6 +10,11 @@
     <ul>Python</ul>
     <ul>Java</ul>
     <ul>SQL</ul>
+    <h2>Labs</h2>
+
+    <table>
+        <tr><a href ="github.com/WillieLui429/CSC225_Lab1">Lab 1</a></tr>
+    </table>
     <hr/>
     <body>Author: Willie Lui </body>
     <br/>
