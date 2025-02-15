@@ -14,7 +14,6 @@
 
     <table>
         <tr><a href ="https://willielui429.github.io/CSC225_Lab1/">Lab 1</a></tr>
-        <tr><a href ="youtube.com">youtube.com</a></tr>
     </table>
     <hr/>
     <body>Author: Willie Lui </body>
