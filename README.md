@@ -13,7 +13,7 @@
     <h2>Labs</h2>
 
     <table>
-        <tr><td><a href ="https://willielui429.github.io/CSC225_Lab1/">Lab 1</a></td></tr>
+        <tr><td><a href ="/CSC225_Lab1/">Lab 1</a></td></tr>
         <tr><td><a href = "/CSC225-HomePage">Lab 2</a></td></tr>
     </table>
     <hr/>
