@@ -16,6 +16,7 @@
         <tr><td><a href ="/CSC225_Lab1/">Lab 1</a></td></tr>
         <tr><td><a href = "/CSC225-HomePage">Lab 2</a></td></tr>
     </table>
+    <img src = "HomepageImage.jpg" alt = "Computer Science" width="201" height="251">
     <hr/>
     <body>Author: Willie Lui </body>
     <br/>
